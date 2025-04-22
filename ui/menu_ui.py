@@ -14,7 +14,8 @@ def mostrar_menu_principal():
         print("1. Crear Factura")
         print("2. Mostrar Factura de un Cliente")
         print("3. Mostrar Historial de Facturas de un Cliente")
-        print("4. Salir")
+        print("4. Mostrar Información de un Cliente")
+        print("5. Salir")
 
         opcion = input("Ingrese el número de la acción: ")
 
